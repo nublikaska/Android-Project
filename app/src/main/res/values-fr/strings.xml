@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">geoquest</string>
+    <string name="question_text"></string>
+    <string name="true_button">Oui</string>
+    <string name="false_button">Aucun</string>
+    <string name="correct_toast">True!</string>
+    <string name="incorrect_toast">Pas vrai!</string>
+    <string name="next_button">Suivant</string>
+    <string name="back_button">Retour</string>
+    <string name="answer_button">Réponse</string>
+    <string name="question_oceans">L\'océan Pacifique est plus grand que l\'océan Atlantique.</string>
+    <string name="question_mideast">Le canal de Suez relie la mer Rouge et l\'océan Indien.</string>
+    <string name="question_africa">La source du Nil est en Egypte. </string>
+    <string name="question_americas">Le fleuve Amazone est le plus grand fleuve des Amériques.</string>
+    <string name="question_asia">Le lac Baïkal est le lac d\'eau douce le plus ancien et le plus profond du monde.</string>
+    <string name="count_using_answers">de 3</string>
+    <string name="not_answer">le nombre maximal d\'invites est utilisé </string>
+</resources>

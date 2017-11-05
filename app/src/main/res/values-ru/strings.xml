@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Гео-квест</string>
+    <string name="question_text"></string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="next_button">Вперед</string>
+    <string name="back_button">Назад</string>
+    <string name="answer_button">Ответ</string>
+    <string name="question_oceans">Тихий океан больше, чем Атлантический океан.</string>
+    <string name="question_mideast">Суэцкий канал соединяет Красное море и Индийский океан.</string>
+    <string name="question_africa">Исток реки Нил находится в Египте.</string>
+    <string name="question_americas">Река Амазонка - самая большая река в Северной и Южной Америке.</string>
+    <string name="question_asia">Озеро Байкал является самым старым и самым глубоким пресноводным озером в мире.</string>
+    <string name="count_using_answers">из 3</string>
+    <string name="not_answer">использовано максимум подсказок</string>
+    <string name="clear_button">очистить информацию</string>
+</resources>
