@@ -1,4 +1,4 @@
-package edu.urfu.mobile.geoquest;
+package com.example.nublikaska.todolist;
 
 import org.junit.Test;
 

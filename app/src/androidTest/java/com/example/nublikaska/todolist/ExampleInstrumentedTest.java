@@ -1,4 +1,4 @@
-package edu.urfu.mobile.geoquest;
+package com.example.nublikaska.todolist;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("edu.urfu.mobile.geoquest", appContext.getPackageName());
+        assertEquals("com.example.nublikaska.todolist", appContext.getPackageName());
     }
 }
